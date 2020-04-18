@@ -63,7 +63,7 @@
 ![](https://github.com/1d8/write/blob/master/img21.png)
 #### Thinking it over though, I may have been able to get linpeas on the box through curl instead of wget.
 #### But we are able to get linpeas on the machine with nmap since it runs with root's permissions, so IF we were able to run it once we gained our initial foothold, it would've detected & suggested the nmap route to rooting the box: 
-![](https://github.com/1d8/write/blob/master/img23.png)
+![](https://github.com/1d8/write/blob/master/img22.png)
 #### I'm not entirely sure why it says "You can write SUID file", but there ya have it!
 
 
