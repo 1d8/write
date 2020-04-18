@@ -1,6 +1,6 @@
 # Tryhackme's Mr.Robot CTF
 #### Our nmap scan yielded these results: 
-![](../Downloads/img1.png)
+![](https://github.com/1d8/write/blob/master/img1.png)
 #### So off to the webpage we go!
 #### When we first load up the page, we get this command-line interface with a set of options: 
 ![](../Downloads/img2.png)
