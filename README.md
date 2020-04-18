@@ -2,4 +2,5 @@
 ## Flags are not shown
 
 1. [Mr Robot CTF](https://github.com/1d8/write/blob/master/Mr.robot_CTF.pdf)
-   * https://tryhackme.com/room/mrrobot
+   * [Link to challenge](https://tryhackme.com/room/mrrobot)
+
