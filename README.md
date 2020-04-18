@@ -4,4 +4,5 @@
 
 1. [Mr Robot CTF](https://github.com/1d8/write/blob/master/Mr.robot_CTF.pdf)
    * [Link to challenge](https://tryhackme.com/room/mrrobot)
-
+2. [Ohsint Challenge](https://github.com/1d8/write/blob/master/ohsint-thm.pdf)
+    * [Link to challenge](https://tryhackme.com/room/ohsint)
